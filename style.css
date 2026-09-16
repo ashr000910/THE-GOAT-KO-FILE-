@@ -7,7 +7,7 @@ body{
     align-content: center;
 }
 
-h1{
+.introduction h1{
     text-align: center;
 color: rgb(240, 187, 237);
 }
@@ -34,5 +34,7 @@ color: rgb(240, 187, 237);
 
 p{ 
 background-color:linear-gradient;
+
 display:block ;
+
 }

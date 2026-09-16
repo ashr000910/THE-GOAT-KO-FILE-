@@ -29,7 +29,6 @@ color: rgb(240, 187, 237);
 
     backdrop-filter: blur(10px);
 
-    /* Smooth floating effect */
     transition: 0.3s;
 }
 

@@ -7,6 +7,10 @@ body{
     align-content: center;
 }
 
+h1{
+color: rgb(240, 187, 237);
+}
+
 Introduction{
      width: 500px;
 
